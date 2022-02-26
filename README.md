@@ -24,7 +24,7 @@
 
 ---
 
-### [메이](https://github.com/may57jy)
+### [메이 / may57jy](https://github.com/may57jy)
 
 - 블로그
   - https://may-jy.tistory.com/
