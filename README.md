@@ -10,7 +10,7 @@
 
 ## 👫 구성원
 
-### [발가락](https://github.com/6lueparr0t)
+### [발가락 / 6lueparr0t](https://github.com/6lueparr0t)
 
 - 블로그
   - [https://blog.rgbplace.com](https://blog.rgbplace.com)
@@ -37,7 +37,7 @@
 
 ---
 
-### [J-Chris](https://github.com/kowo1001)
+### [J-Chris / kowo1001](https://github.com/kowo1001)
 
 - 블로그 주소
   - https://go-one-step.tistory.com/
@@ -52,7 +52,7 @@
 
 ---
 
-### [백호](https://github.com/klyhyeon)
+### [백호 / klyhyeon](https://github.com/klyhyeon)
 
 - 블로그 주소
   - https://klyhyeon.tistory.com
@@ -66,7 +66,7 @@
 
 ---
 
-### [케이](https://github.com/OpusK)
+### [케이 / OpusK](https://github.com/OpusK)
 
 - 블로그 주소
   - https://openmaker.tistory.com
