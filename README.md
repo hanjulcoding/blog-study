@@ -99,4 +99,12 @@
 
 |Author|Contents|URL|
 |:---|:---|:---|
-|-|-|-|
+|[케이][케이]|\[ReactJS\] 리액트? 메인 컨셉/설계 이야기|https://openmaker.tistory.com/127|
+|||
+
+[발가락]: https://github.com/6lueparr0t
+[메이]: https://github.com/may57jy
+[J-Chris]: https://github.com/kowo1001
+[백호]: https://github.com/klyhyeon
+[케이]: https://github.com/OpusK
+[Joy]: https://github.com/develop-heo
