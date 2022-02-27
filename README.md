@@ -100,7 +100,7 @@
 |Author|Contents|URL|
 |:---|:---|:---|
 |[케이][케이]|\[ReactJS\] 리액트? 메인 컨셉/설계 이야기|https://openmaker.tistory.com/127|
-|||
+|[발가락][발가락]|\[Kubernetes & Docker\] 4-3. kubectl (1/2)|https://blog.rgbplace.com/423|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
