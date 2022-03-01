@@ -105,6 +105,7 @@
 |[메이][메이]|||
 ||||
 |[J-Chris][J-Chris]|1.객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
+||6장 AOP|https://kowo1001.github.io/spring/6%EC%9E%A5_AOP/|
 ||||
 |[백호][백호]|||
 ||||
