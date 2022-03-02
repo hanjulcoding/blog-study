@@ -107,7 +107,7 @@
 |[J-Chris][J-Chris]|1.객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
 ||6장 AOP|https://kowo1001.github.io/spring/6%EC%9E%A5_AOP/|
 ||||
-|[백호][백호]|||
+|[백호][백호]|\[Java\] jackson 라이브러리는 왜 non-static Inner class를 매핑하지 못할까?|https://klyhyeon.tistory.com/299|
 ||||
 |[케이][케이]|\[ReactJS\] 리액트? 메인 컨셉/설계 이야기|https://openmaker.tistory.com/127|
 ||||
