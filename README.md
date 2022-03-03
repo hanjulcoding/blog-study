@@ -102,6 +102,7 @@
 |[발가락][발가락]|\[Kubernetes & Docker\] 4-3. kubectl (1/2)|https://blog.rgbplace.com/423|
 ||\[Kubernetes & Docker\] 4-3. kubectl (2/2)|https://blog.rgbplace.com/424|
 ||\[CKAD\] section 1. Introduction|https://blog.rgbplace.com/425|
+||\[CKAD\] section 2. Core Concepts (1)|https://blog.rgbplace.com/426|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | | | |
