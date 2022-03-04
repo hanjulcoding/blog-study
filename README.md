@@ -114,7 +114,7 @@
 | | | |
 |[케이][케이]|\[ReactJS\] 리액트? 메인 컨셉/설계 이야기|https://openmaker.tistory.com/127|
 | |아키텍처 특성? 나쁜 것 중에서 제일 나은 아키텍처를 선택하라|https://openmaker.tistory.com/130|
-| | | |
+| |분산 아키텍처 설계시 유의 사항: 전제 오류부터 잡자|https://openmaker.tistory.com/131|
 |[Joy][Joy]|||
 
 [발가락]: https://github.com/6lueparr0t
