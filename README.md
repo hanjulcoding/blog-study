@@ -103,12 +103,14 @@
 ||\[Kubernetes & Docker\] 4-3. kubectl (2/2)|https://blog.rgbplace.com/424|
 ||\[CKAD\] section 1. Introduction|https://blog.rgbplace.com/425|
 ||\[CKAD\] section 2. Core Concepts (1)|https://blog.rgbplace.com/426|
+||\[CKAD\] section 2. Core Concepts (2)|https://blog.rgbplace.com/427|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | | | |
 |[J-Chris][J-Chris]|6장 AOP|https://kowo1001.github.io/spring/6%EC%9E%A5_AOP/|
 | |1. \[Spring\] 객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
 | |2. \[Spring\] 회원가입 및 조회 요구사항|https://go-one-step.tistory.com/2|
+| |3. \[Spring\] 주문과 할인 요구사항|https://go-one-step.tistory.com/3|
 | | | |
 |[백호][백호]|\[Java\] jackson 라이브러리는 왜 non-static Inner class를 매핑하지 못할까?|https://klyhyeon.tistory.com/299|
 | | | |
