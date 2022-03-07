@@ -118,8 +118,9 @@
 | |아키텍처 특성? 나쁜 것 중에서 제일 나은 아키텍처를 선택하라|https://openmaker.tistory.com/130|
 | |분산 아키텍처 설계시 유의 사항: 전제 오류부터 잡자|https://openmaker.tistory.com/131|
 | |\[Github\] PR (Pull Request) File Tree (preview feature)|https://openmaker.tistory.com/132|
+| |아키텍처 특성? 나쁜 것 중에서 제일 나은 아키텍처를 선택하라|https://openmaker.tistory.com/133|
 | | | |
-|[Joy][Joy]|||
+|[Joy][Joy]|this란?|https://github.com/develop-heo/TIL/blob/main/Javascript/this.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
