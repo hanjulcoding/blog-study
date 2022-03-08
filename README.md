@@ -106,6 +106,7 @@
 ||\[CKAD\] section 2. Core Concepts (2)|https://blog.rgbplace.com/427|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
+| |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
 | | | |
 |[J-Chris][J-Chris]|6장 AOP|https://kowo1001.github.io/spring/6%EC%9E%A5_AOP/|
 | |1. \[Spring\] 객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
@@ -119,8 +120,10 @@
 | |분산 아키텍처 설계시 유의 사항: 전제 오류부터 잡자|https://openmaker.tistory.com/131|
 | |\[Github\] PR (Pull Request) File Tree (preview feature)|https://openmaker.tistory.com/132|
 | |아키텍처 특성? 나쁜 것 중에서 제일 나은 아키텍처를 선택하라|https://openmaker.tistory.com/133|
+| |파이프라인 아키텍처 (Pipeline architecture) 스타일|https://openmaker.tistory.com/134|
 | | | |
 |[Joy][Joy]|this란?|https://github.com/develop-heo/TIL/blob/main/Javascript/this.md|
+| |자바 스크립트 실행 컨텍스트|https://github.com/develop-heo/TIL/blob/main/Javascript/Execution%20Context.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
