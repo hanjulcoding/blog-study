@@ -116,6 +116,7 @@
 | |3. \[Spring\] 주문과 할인 요구사항|https://go-one-step.tistory.com/3|
 | | | |
 |[백호][백호]|\[Java\] jackson 라이브러리는 왜 non-static Inner class를 매핑하지 못할까?|https://klyhyeon.tistory.com/299|
+| |\[Effective-java\] 아이템 78 - 공유 중인 가변 데이터는 동기화에 사용하라|https://klyhyeon.tistory.com/300|
 | | | |
 |[케이][케이]|\[ReactJS\] 리액트? 메인 컨셉/설계 이야기|https://openmaker.tistory.com/127|
 | |아키텍처 특성? 나쁜 것 중에서 제일 나은 아키텍처를 선택하라|https://openmaker.tistory.com/130|
