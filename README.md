@@ -105,7 +105,6 @@
 | |\[CKAD\] section 2. Core Concepts (1) - Basic|https://blog.rgbplace.com/426|
 | |\[CKAD\] section 2. Core Concepts (2) - Pod|https://blog.rgbplace.com/427|
 | |\[CKAD\] section 2. Practice Test (KodeKloud)|https://blog.rgbplace.com/428|
-| |\[CKAD\] section 2. Core Concepts (3) - ReplicaSet|https://blog.rgbplace.com/429|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
