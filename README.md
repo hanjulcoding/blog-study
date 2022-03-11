@@ -105,6 +105,7 @@
 | |\[CKAD\] section 2. Core Concepts (1) - Basic|https://blog.rgbplace.com/426|
 | |\[CKAD\] section 2. Core Concepts (2) - Pod|https://blog.rgbplace.com/427|
 | |\[CKAD\] section 2. Practice Test (KodeKloud)|https://blog.rgbplace.com/428|
+| |\[CKAD\] section 2. Core Concepts (3) - ReplicaSet & Deployment|https://blog.rgbplace.com/429|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
@@ -127,6 +128,8 @@
 | | | |
 |[Joy][Joy]|this란?|https://github.com/develop-heo/TIL/blob/main/Javascript/this.md|
 | |자바 스크립트 실행 컨텍스트|https://github.com/develop-heo/TIL/blob/main/Javascript/Execution%20Context.md|
+| |클로저(Closure) 에 대해 알아보자|https://github.com/develop-heo/TIL/blob/main/Javascript/closure.md|
+| |Scope 에 대해..|https://github.com/develop-heo/TIL/blob/main/Javascript/scope.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
