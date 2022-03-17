@@ -137,9 +137,9 @@
 | |자바 스크립트 실행 컨텍스트|https://github.com/develop-heo/TIL/blob/main/Javascript/Execution%20Context.md|
 | |클로저(Closure) 에 대해 알아보자|https://github.com/develop-heo/TIL/blob/main/Javascript/closure.md|
 | |Scope 에 대해..|https://github.com/develop-heo/TIL/blob/main/Javascript/scope.md|
-| |Dom, Prototype, Event|https://github.com/develop-heo/TIL/blob/main/Javascript/DOM.md|
-| ||https://github.com/develop-heo/TIL/blob/main/Javascript/Prototype.md|
-| ||https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
+| |Dom|https://github.com/develop-heo/TIL/blob/main/Javascript/DOM.md|
+| |Prototype|https://github.com/develop-heo/TIL/blob/main/Javascript/Prototype.md|
+| |Event|https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
