@@ -106,6 +106,8 @@
 | |\[CKAD\] section 2. Core Concepts (2) - Pod|https://blog.rgbplace.com/427|
 | |\[CKAD\] section 2. Practice Test (KodeKloud)|https://blog.rgbplace.com/428|
 | |\[CKAD\] section 2. Core Concepts (3) - ReplicaSet & Deployment|https://blog.rgbplace.com/429|
+| |\[CKAD\] section 2. Core Concepts (3) - Namespace|https://blog.rgbplace.com/430|
+| |\[CKAD\] section 3. Configuration (1)|https://blog.rgbplace.com/431|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
@@ -117,6 +119,7 @@
 | |1. \[Spring\] 객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
 | |2. \[Spring\] 회원가입 및 조회 요구사항|https://go-one-step.tistory.com/2|
 | |3. \[Spring\] 주문과 할인 요구사항|https://go-one-step.tistory.com/3|
+| |3. \[Spring\] 새로운 할인 정책 설계 및 개발|https://go-one-step.tistory.com/4|
 | | | |
 |[백호][백호]|\[Java\] jackson 라이브러리는 왜 non-static Inner class를 매핑하지 못할까?|https://klyhyeon.tistory.com/299|
 | |\[Effective-java\] 아이템 78 - 공유 중인 가변 데이터는 동기화에 사용하라|https://klyhyeon.tistory.com/300|
@@ -134,6 +137,9 @@
 | |자바 스크립트 실행 컨텍스트|https://github.com/develop-heo/TIL/blob/main/Javascript/Execution%20Context.md|
 | |클로저(Closure) 에 대해 알아보자|https://github.com/develop-heo/TIL/blob/main/Javascript/closure.md|
 | |Scope 에 대해..|https://github.com/develop-heo/TIL/blob/main/Javascript/scope.md|
+| |Dom, Prototype, Event|https://github.com/develop-heo/TIL/blob/main/Javascript/DOM.md|
+| ||https://github.com/develop-heo/TIL/blob/main/Javascript/Prototype.md|
+| ||https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
