@@ -107,13 +107,15 @@
 | |\[CKAD\] section 2. Practice Test (KodeKloud)|https://blog.rgbplace.com/428|
 | |\[CKAD\] section 2. Core Concepts (3) - ReplicaSet & Deployment|https://blog.rgbplace.com/429|
 | |\[CKAD\] section 2. Core Concepts (3) - Namespace|https://blog.rgbplace.com/430|
-| |\[CKAD\] section 3. Configuration (1)|https://blog.rgbplace.com/431|
+| |\[CKAD\] section 3. Configuration (1) - ConfigMap|https://blog.rgbplace.com/431|
+| |\[CKAD\] section 3. Configuration (2) - Secret & Security Contexts|https://blog.rgbplace.com/432|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
 | |ES6에서의 set|https://may-jy.tistory.com/19|
 | |Javascript set()을 console.log()로 확인해보기|https://may-jy.tistory.com/20|
 | |Set() 자료구조|https://may-jy.tistory.com/21|
+| |foreach()는 왜 내 발목을 붙잡는가..|https://may-jy.tistory.com/22|
 | | | |
 |[J-Chris][J-Chris]|6장 AOP|https://kowo1001.github.io/spring/6%EC%9E%A5_AOP/|
 | |1. \[Spring\] 객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
