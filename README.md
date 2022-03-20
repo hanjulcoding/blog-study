@@ -109,6 +109,7 @@
 | |\[CKAD\] section 2. Core Concepts (3) - Namespace|https://blog.rgbplace.com/430|
 | |\[CKAD\] section 3. Configuration (1) - ConfigMap|https://blog.rgbplace.com/431|
 | |\[CKAD\] section 3. Configuration (2) - Secret & Security Contexts|https://blog.rgbplace.com/432|
+| |\[CKAD\] section 3. Configuration (3) - SA, Resource, Taints & Toleration|https://blog.rgbplace.com/433|
 | | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
