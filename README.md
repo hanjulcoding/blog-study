@@ -116,15 +116,19 @@
 | |Javascript set()을 console.log()로 확인해보기|https://may-jy.tistory.com/20|
 | |Set() 자료구조|https://may-jy.tistory.com/21|
 | |foreach()는 왜 내 발목을 붙잡는가..|https://may-jy.tistory.com/22|
+| |foreach()에 대해 고민하고 찾아보다가|https://may-jy.tistory.com/23|
 | | | |
 |[J-Chris][J-Chris]|6장 AOP|https://kowo1001.github.io/spring/6%EC%9E%A5_AOP/|
 | |1. \[Spring\] 객체지향 설계와 스프링|https://go-one-step.tistory.com/1|
 | |2. \[Spring\] 회원가입 및 조회 요구사항|https://go-one-step.tistory.com/2|
 | |3. \[Spring\] 주문과 할인 요구사항|https://go-one-step.tistory.com/3|
 | |3. \[Spring\] 새로운 할인 정책 설계 및 개발|https://go-one-step.tistory.com/4|
+| |4. \[Spring\] 관심사의 분리 (객체 지향 원리의 적용)|https://go-one-step.tistory.com/5|
 | | | |
 |[백호][백호]|\[Java\] jackson 라이브러리는 왜 non-static Inner class를 매핑하지 못할까?|https://klyhyeon.tistory.com/299|
 | |\[Effective-java\] 아이템 78 - 공유 중인 가변 데이터는 동기화에 사용하라|https://klyhyeon.tistory.com/300|
+| |\[Effective-Java\] 아이템 85 자바 직렬화의 대안을 찾으라|https://klyhyeon.tistory.com/301|
+| |Effective Java 스터디를 끝내며 그간에 대한 회고|https://klyhyeon.tistory.com/302|
 | | | |
 |[케이][케이]|\[ReactJS\] 리액트? 메인 컨셉/설계 이야기|https://openmaker.tistory.com/127|
 | |아키텍처 특성? 나쁜 것 중에서 제일 나은 아키텍처를 선택하라|https://openmaker.tistory.com/130|
