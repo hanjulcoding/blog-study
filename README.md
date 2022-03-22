@@ -111,6 +111,7 @@
 | |\[CKAD\] section 3. Configuration (2) - Secret & Security Contexts|https://blog.rgbplace.com/432|
 | |\[CKAD\] section 3. Configuration (3) - SA, Resource, Taints & Toleration|https://blog.rgbplace.com/433|
 | |\[CKAD\] section 3. Configuration (4) - Node Selectors & Node Affinity|https://blog.rgbplace.com/434|
+| | | |
 |[메이][메이]|개발자로서 한걸음 더|https://may-jy.tistory.com/17|
 | |Javascript 인프런 강의 들으면서 정리하기로|https://may-jy.tistory.com/18|
 | |ES6에서의 set|https://may-jy.tistory.com/19|
