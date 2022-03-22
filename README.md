@@ -139,6 +139,8 @@
 | |파이프라인 아키텍처 (Pipeline architecture) 스타일|https://openmaker.tistory.com/134|
 | |마이크로커널 아키텍처 (microkernel / plug-in architecture)|https://openmaker.tistory.com/135|
 | |서비스 기반 아키텍처 (Service-based Archtiecture)|https://openmaker.tistory.com/136|
+| |ADR(Architectural Decision Records) tool|https://openmaker.tistory.com/137|
+| |\[TypeScript\] type vs interface|https://openmaker.tistory.com/138|
 | | | |
 |[Joy][Joy]|this란?|https://github.com/develop-heo/TIL/blob/main/Javascript/this.md|
 | |자바 스크립트 실행 컨텍스트|https://github.com/develop-heo/TIL/blob/main/Javascript/Execution%20Context.md|
