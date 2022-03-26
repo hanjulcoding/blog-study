@@ -142,6 +142,7 @@
 | |서비스 기반 아키텍처 (Service-based Archtiecture)|https://openmaker.tistory.com/136|
 | |ADR(Architectural Decision Records) tool|https://openmaker.tistory.com/137|
 | |\[TypeScript\] type vs interface|https://openmaker.tistory.com/138|
+| |\[TypeScript\] 컴파일러: transpile 과 타입체크의 분리|https://openmaker.tistory.com/141|
 | | | |
 |[Joy][Joy]|this란?|https://github.com/develop-heo/TIL/blob/main/Javascript/this.md|
 | |자바 스크립트 실행 컨텍스트|https://github.com/develop-heo/TIL/blob/main/Javascript/Execution%20Context.md|
@@ -150,6 +151,8 @@
 | |Dom|https://github.com/develop-heo/TIL/blob/main/Javascript/DOM.md|
 | |Prototype|https://github.com/develop-heo/TIL/blob/main/Javascript/Prototype.md|
 | |Event|https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
+| |Event|https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
+| |동기와 비동기 (Synchronous & Asynchronous)|https://github.com/develop-heo/TIL/blob/main/Javascript/Asynchronous.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
