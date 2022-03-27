@@ -151,8 +151,9 @@
 | |Dom|https://github.com/develop-heo/TIL/blob/main/Javascript/DOM.md|
 | |Prototype|https://github.com/develop-heo/TIL/blob/main/Javascript/Prototype.md|
 | |Event|https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
-| |Event|https://github.com/develop-heo/TIL/blob/main/Javascript/Event.md|
 | |동기와 비동기 (Synchronous & Asynchronous)|https://github.com/develop-heo/TIL/blob/main/Javascript/Asynchronous.md|
+| |이벤트 다루기|https://github.com/develop-heo/TIL/blob/main/Javascript/EventHandling.md|
+| |예외 처리|https://github.com/develop-heo/TIL/blob/main/Javascript/Exception.md|
 
 [발가락]: https://github.com/6lueparr0t
 [메이]: https://github.com/may57jy
