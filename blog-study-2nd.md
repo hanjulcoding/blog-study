@@ -45,6 +45,20 @@
 
 ---
 
+### [윤유상 / yoon-yoo-sang](https://github.com/yoon-yoo-sang)
+
+- 블로그 주소
+  - [https://yoon-yoo-sang.github.io](https://yoon-yoo-sang.github.io)
+
+- 목표
+  - 자바스크립트, 리액트
+  - 강의 일주일에 3개씩 듣고 올리기
+
+- 각오 한 마다
+  > 이번엔 꼭 꾸준히 하기!
+
+
+---
 ### [Joy / develop-heo](https://github.com/develop-heo)
 
 - 블로그 주소
@@ -72,4 +86,5 @@
 [발가락]: https://github.com/6lueparr0t
 [J-Chris]: https://github.com/kowo1001
 [케이]: https://github.com/OpusK
+[윤유상]: https://github.com/yoon-yoo-sang
 [Joy]: https://github.com/develop-heo
