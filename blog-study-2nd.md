@@ -77,9 +77,11 @@
 |:---|:---|:---|
 |[케이][케이]|||
 | | | |
-|[발가락][발가락]|||
+|[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
 | | | |
 |[J-Chris][J-Chris]|||
+| | | |
+|[윤유상][윤유상]|||
 | | | |
 |[Joy][Joy]|||
 
