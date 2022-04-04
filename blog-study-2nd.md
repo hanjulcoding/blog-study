@@ -76,7 +76,7 @@
 
 |Author|Contents|URL|
 |:---|:---|:---|
-|[케이][케이]|||
+|[케이][케이]|\[PowerShell\] 테마 변경하기 - Oh My Posh|https://openmaker.tistory.com/143|
 | | | |
 |[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
 | | | |
