@@ -36,7 +36,7 @@
 
 - 블로그 주소
   - https://go-one-step.tistory.com/
-
+  - https://blog.naver.com/hijongwook
 - 목표
   - TIL 작성하기 (자바스프링, 리액트, 타입스크립트, 빅분기(자격증), 알고리즘(코테))
 
