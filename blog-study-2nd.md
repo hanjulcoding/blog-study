@@ -80,7 +80,7 @@
 | | | |
 |[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
 | | | |
-|[J-Chris][J-Chris]|||
+|[J-Chris][J-Chris]|\[Vue\] Vue 쓰는 이유 및 개발환경 셋팅|https://blog.naver.com/hijongwook/222691873267|
 | | | |
 |[윤유상][윤유상]|||
 | | | |
