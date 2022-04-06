@@ -79,6 +79,7 @@
 |[케이][케이]|\[PowerShell\] 테마 변경하기 - Oh My Posh|https://openmaker.tistory.com/143|
 | | | |
 |[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
+| |\[CKAD\] section 5. Observability|https://blog.rgbplace.com/437|
 | | | |
 |[J-Chris][J-Chris]|\[Vue\] Vue 쓰는 이유 및 개발환경 셋팅|https://blog.naver.com/hijongwook/222691873267|
 | | | |
