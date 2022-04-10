@@ -82,7 +82,7 @@
 | |\[CKAD\] section 5. Observability|https://blog.rgbplace.com/437|
 | | | |
 |[J-Chris][J-Chris]|\[Vue\] Vue 쓰는 이유 및 개발환경 셋팅|https://blog.naver.com/hijongwook/222691873267|
-| | | |
+| |1장. 처음 만나는 자연어 처리|https://go-one-step.tistory.com/7|
 |[윤유상][윤유상]|||
 | | | |
 |[Joy][Joy]|||
