@@ -26,7 +26,6 @@
 
 - 목표
   - 쿠버네티스 CKAD 과정 끝까지 정리하기
-  - 대학원 수업 내용 정리 (인공지능개론 / IoT 네트워크)
 
 - 각오 한 마디
   > CKAD 꼭 합격해보겠습니다!
@@ -77,6 +76,7 @@
 |Author|Contents|URL|
 |:---|:---|:---|
 |[케이][케이]|\[PowerShell\] 테마 변경하기 - Oh My Posh|https://openmaker.tistory.com/143|
+| |\[TypeScript\] Namespace|https://openmaker.tistory.com/144|
 | | | |
 |[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
 | |\[CKAD\] section 5. Observability|https://blog.rgbplace.com/437|
