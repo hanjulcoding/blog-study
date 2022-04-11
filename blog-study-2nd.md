@@ -80,7 +80,7 @@
 | | | |
 |[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
 | |\[CKAD\] section 5. Observability|https://blog.rgbplace.com/437|
-| | | |
+| |\[CKAD\] section 6. POD Design (1) Labels & Rolling Update|https://blog.rgbplace.com/440|
 |[J-Chris][J-Chris]|\[Vue\] Vue 쓰는 이유 및 개발환경 셋팅|https://blog.naver.com/hijongwook/222691873267|
 | |1장. 처음 만나는 자연어 처리|https://go-one-step.tistory.com/7|
 |[윤유상][윤유상]|||
