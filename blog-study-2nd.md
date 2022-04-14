@@ -84,7 +84,7 @@
 | | | |
 |[J-Chris][J-Chris]|\[Vue\] Vue 쓰는 이유 및 개발환경 셋팅|https://blog.naver.com/hijongwook/222691873267|
 | |1장. 처음 만나는 자연어 처리|https://go-one-step.tistory.com/7|
-|[윤유상][윤유상]|||
+|[윤유상][윤유상]|자바스크립트 8 - 배열|[https://yoon-yoo-sang.github.io/javascript/자바스크립트_배열/](https://yoon-yoo-sang.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EB%B0%B0%EC%97%B4/)|
 | | | |
 |[Joy][Joy]|||
 
