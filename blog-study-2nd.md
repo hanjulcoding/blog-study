@@ -82,6 +82,7 @@
 | |\[CKAD\] section 5. Observability|https://blog.rgbplace.com/437|
 | |\[CKAD\] section 6. POD Design (1) - Labels & Rolling Update|https://blog.rgbplace.com/440|
 | |\[CKAD\] section 6. POD Design (2) - Job & CronJob|https://blog.rgbplace.com/441|
+| |\[Kubernetes\] 쿠버네티스로 우분투 띄워보기|https://blog.rgbplace.com/442|
 | |\[CKAD\] section 7. Services (1)|https://blog.rgbplace.com/444|
 | | | |
 |[J-Chris][J-Chris]|\[Vue\] Vue 쓰는 이유 및 개발환경 셋팅|https://blog.naver.com/hijongwook/222691873267|
