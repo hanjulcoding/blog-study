@@ -59,6 +59,7 @@
 
 
 ---
+
 ### [Joy / develop-heo](https://github.com/develop-heo)
 
 - 블로그 주소
@@ -96,6 +97,20 @@
 | |자바스크립트 9 - 유용한 배열 함수|[https://yoon-yoo-sang.github.io/javascript/자바스크립트_유용한_배열_함수](https://yoon-yoo-sang.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%9C%A0%EC%9A%A9%ED%95%9C_%EB%B0%B0%EC%97%B4_%ED%95%A8%EC%88%98/)|
 | | | |
 |[Joy][Joy]|||
+
+---
+
+## 마무리
+
+- 1기에 비해 망했다.
+
+- 1기 때는 그래도 피드백을 간간히 주기도 했지만 이번엔 다들 바빴는지 피드백이 안됐다.
+
+- 아예 안쓰는 사람도 발생했다.
+
+- 다음엔 룰을 바꿔서, 스터디에 적극적일 것 같은 사람을 가려서 뽑아야겠다.
+
+---
 
 [발가락]: https://github.com/6lueparr0t
 [J-Chris]: https://github.com/kowo1001
